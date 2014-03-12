@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Javascript Beautify",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-json",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-ruby",
+		"SyncedSideBar",
+		"Theme - Flatland",
+		"Theme - Soda"
+	]
+}

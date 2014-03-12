@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/Flatland Dark (SL).tmTheme",
+	"font_face": "Ubuntu Mono",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
